@@ -1051,7 +1051,7 @@ namespace nspector
 
         private string GetBaseProfileName()
         {
-            return string.Format("_GLOBAL_DRIVER_PROFILE ({0})", _baseProfileName);
+            return string.Format("Watch Dogs 2 ({0})", _baseProfileName);
         }
 
         private void tsbModifiedProfiles_ButtonClick(object sender, EventArgs e)
